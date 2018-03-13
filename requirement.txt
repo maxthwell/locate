@@ -1,0 +1,9 @@
+requests>=2.11.1
+psycopg2
+redis
+gevent
+flask
+flask_cors
+pywxpay
+numpy
+scipy
